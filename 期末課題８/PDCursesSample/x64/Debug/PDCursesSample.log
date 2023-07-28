@@ -1,0 +1,21 @@
+﻿  battle.cpp
+C:\Users\cgug1014\Downloads\期末課題5\PDCursesSample\battle.cpp(2,10): fatal error C1083: include ファイルを開けません。'curses.h':No such file or directory
+  enemy.cpp
+C:\Users\cgug1014\Downloads\期末課題5\PDCursesSample\enemy.cpp(2,10): fatal error C1083: include ファイルを開けません。'curses.h':No such file or directory
+  gameclear.cpp
+C:\Users\cgug1014\Downloads\期末課題5\PDCursesSample\gameclear.cpp(2,10): fatal error C1083: include ファイルを開けません。'curses.h':No such file or directory
+  gameover.cpp
+C:\Users\cgug1014\Downloads\期末課題5\PDCursesSample\gameover.cpp(2,10): fatal error C1083: include ファイルを開けません。'curses.h':No such file or directory
+  player.cpp
+C:\Users\cgug1014\Downloads\期末課題5\PDCursesSample\player.cpp(2,10): fatal error C1083: include ファイルを開けません。'curses.h':No such file or directory
+  word.cpp
+C:\Users\cgug1014\Downloads\期末課題5\PDCursesSample\word.cpp(2,10): fatal error C1083: include ファイルを開けません。'curses.h':No such file or directory
+  PDCursesSample.cpp
+C:\Users\cgug1014\Downloads\期末課題5\PDCursesSample\PDCursesSample.cpp(7,10): fatal error C1083: include ファイルを開けません。'curses.h':No such file or directory
+  field.cpp
+C:\Users\cgug1014\Downloads\期末課題5\PDCursesSample\field.cpp(2,10): fatal error C1083: include ファイルを開けません。'curses.h':No such file or directory
+  rule.cpp
+C:\Users\cgug1014\Downloads\期末課題5\PDCursesSample\rule.cpp(2,10): fatal error C1083: include ファイルを開けません。'curses.h':No such file or directory
+  title.cpp
+C:\Users\cgug1014\Downloads\期末課題5\PDCursesSample\title.cpp(2,10): fatal error C1083: include ファイルを開けません。'curses.h':No such file or directory
+  コードを生成中...
